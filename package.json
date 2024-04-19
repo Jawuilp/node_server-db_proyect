@@ -1,0 +1,11 @@
+{
+  "name": "proyecto-json-server",
+  "version": "0.0.1",
+  "description": "servidor para tener una pequeña info de cursos",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Jawuil",
+  "license": "ISC"
+}
